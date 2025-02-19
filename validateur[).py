@@ -1,3 +1,4 @@
+#replit lycee
 def ouvrant(file,symbole):
      return (file.appends(symbole))
 
