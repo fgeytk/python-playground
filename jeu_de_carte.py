@@ -1,3 +1,4 @@
+#replit lycee
 
 from random import shuffle
 import time
