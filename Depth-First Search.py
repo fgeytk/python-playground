@@ -1,3 +1,4 @@
+#Replit Lycée
 from copy import deepcopy
 import random
 
