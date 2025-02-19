@@ -1,3 +1,4 @@
+#Replit Lycee
 #!/usr/bin/env python3
 adresseTexte = input("Entrez une adresse ip et le masque svp: ")
 d,m= adresseTexte.split("/")
